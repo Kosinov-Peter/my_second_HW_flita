@@ -2,7 +2,7 @@
 #include <stdlib.h>
 FILE* f;
 
-int main()
+int main(void)
 {
     printf("enter the number of edge - top\n");
     int v;
